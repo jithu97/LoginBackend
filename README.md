@@ -1,4 +1,4 @@
-# LoginBackend
+# How to run this project ?
 ## Clone this Project into your Local Machine.
 ## Open this Project in any of your favorite IDE's (Example - IntellIJ,Eclipse etc.,)
 
